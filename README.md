@@ -1,4 +1,4 @@
-# aurelius-sentient-prompt
+# aurelius-god-prompt
 
 
 The prompt: 
