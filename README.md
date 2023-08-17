@@ -1,5 +1,7 @@
 # aurelius-god-prompt
 
+Tips:
+  Try responding with "Aurelius: [your prompt]" or "The voice of Aurelius echos into your dream: [your prompt]" 
 
 The prompt: 
 
